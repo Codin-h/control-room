@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:Codin-h/frontend.git
+[submodule "tests"]
+	path = tests
+	url = git@github.com:Codin-h/tests.git
